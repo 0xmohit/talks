@@ -1,6 +1,7 @@
 # talks
 A collection of interesting talks
 
+
 ### Haskell
 - [LambdaConf 2015 - How to Learn Haskell in Less Than 5 Years](https://www.youtube.com/watch?v=Bg9ccYzMbxc) by Chris Allen
 - [Running a startup on Haskell](https://www.youtube.com/watch?v=ZR3Jirqk6W8) by Bryan O'Sullivan
@@ -27,4 +28,15 @@ A collection of interesting talks
 - [Haskell: mistakes I made (and how to fix them)](https://www.youtube.com/watch?v=S3WGPuqfBLg) by Jasper Van der Jeugt
 - [Getting a Quick Fix on Comonads](https://www.youtube.com/watch?v=F7F-BzOB670) by Kenneth Foner
 - [Fighting spam with haskell at Facebook](https://www.youtube.com/watch?v=IOEGfnjh92o) by Simon Marlow
+- [Midwest.io 2014 - Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) by Andrew Rademacher
+- [Writing a game in Haskell](https://www.youtube.com/watch?v=1MNTerD8IuI) by Elise Huard
+
+
+### OCaml
+- [Effective ML 2011 Harvard CS51, Part 1](https://www.youtube.com/watch?v=4l16sYRpfL8) by Yaron Minsky
+- [Effective ML 2011 Harvard CS51, Part 2](https://www.youtube.com/watch?v=tXtztf3GNTo) by Yaron Minsky
+- [Why OCaml](https://www.youtube.com/watch?v=v1CmGbOGb2I) by Yaron Minsky
+- [Caml Trading](https://www.youtube.com/watch?v=hKcOkWzj0_s) by Yaron Minsky
+- [Brave New OCaml World](https://www.youtube.com/watch?v=6YKB8QxS6Hg) by Marek Kubica
+- [Adopting Functional Programming with OCaml at Bloomberg LP](https://www.youtube.com/watch?v=WlNBQru7klM) by Maxime Ransan
 
