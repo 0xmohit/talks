@@ -30,6 +30,7 @@ A collection of interesting talks
 - [Fighting spam with haskell at Facebook](https://www.youtube.com/watch?v=IOEGfnjh92o) by Simon Marlow
 - [Midwest.io 2014 - Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) by Andrew Rademacher
 - [Writing a game in Haskell](https://www.youtube.com/watch?v=1MNTerD8IuI) by Elise Huard
+- [Into the Core - Squeezing Haskell into Nine Constructors](https://www.youtube.com/watch?v=uR_VzYxvbxg) by Simon Peyton Jones
 
 
 ### OCaml
